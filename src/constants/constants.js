@@ -20,7 +20,7 @@ export const projects = [
   {
     title: 'Twitter Clone',
     description: "Twitter is a leading social media platform, in the Twitter Clone frontend layout has been designed using material UI icons, CSS and the React.js framework to design multi-layered components. Hosting and Database is managed via Firebase.",
-      image: '/images/3.PNG',
+      image: '/images/3.png',
       tags: ['React', 'Firebase'],
     source: 'https://github.com/arjuncodearjun',
     visit: 'https://twitter-clone-8fba9.web.app/',
